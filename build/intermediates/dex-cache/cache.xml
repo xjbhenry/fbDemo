@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="C:\Users\Henry\AndroidstudioProjects\facebook-android-sdk-3.19.0\samples\PlacePickerSample\build\intermediates\pre-dexed\debug\classes-6b7afba3bda4f5e2f98907b61b15c240cd5abd2a.jar"
+        jar="C:\Users\Henry\AndroidstudioProjects\facebook-android-sdk-3.19.0\samples\PlacePickerSample\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0"/>
+    <item
+        dex="C:\Users\Henry\AndroidstudioProjects\facebook-android-sdk-3.19.0\samples\FriendPickerSample\build\intermediates\pre-dexed\debug\internal_impl-20.0.0-127ed9e5d802048a9eeddcd8b3ed2f01e5d80cb6.jar"
+        jar="C:\Users\Henry\AndroidstudioProjects\facebook-android-sdk-3.19.0\samples\FriendPickerSample\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\libs\internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d"/>
+    <item
+        dex="C:\Users\Henry\AndroidstudioProjects\facebook-android-sdk-3.19.0\samples\HelloFacebookSample\build\intermediates\pre-dexed\debug\classes-7e6c8375375d5499ac15f3a0eded67918fee94ab.jar"
+        jar="C:\Users\Henry\AndroidstudioProjects\facebook-android-sdk-3.19.0\samples\HelloFacebookSample\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0"/>
+    <item
+        dex="C:\Users\Henry\AndroidstudioProjects\facebook-android-sdk-3.19.0\samples\HelloFacebookSample\build\intermediates\pre-dexed\debug\internal_impl-20.0.0-d1cc8b33de5c6a09919f898fe827232a29239817.jar"
+        jar="C:\Users\Henry\AndroidstudioProjects\facebook-android-sdk-3.19.0\samples\HelloFacebookSample\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\libs\internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d"/>
+    <item
+        dex="C:\Users\Henry\AndroidstudioProjects\facebook-android-sdk-3.19.0\samples\HelloFacebookSample\build\intermediates\pre-dexed\debug\classes-a9f86443024e9326069f8109d7c9ee81d2ee1662.jar"
+        jar="C:\Users\Henry\AndroidstudioProjects\facebook-android-sdk-3.19.0\samples\HelloFacebookSample\build\intermediates\exploded-aar\facebook-android-sdk-3.19.0\facebook\unspecified\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="9705fd7cf25d4af5e2a35e956cf67e41ade5dc22"/>
+    <item
+        dex="C:\Users\Henry\AndroidstudioProjects\facebook-android-sdk-3.19.0\samples\FriendPickerSample\build\intermediates\pre-dexed\debug\classes-235d51e87073d899aa3a626d5f7083466e15b656.jar"
+        jar="C:\Users\Henry\AndroidstudioProjects\facebook-android-sdk-3.19.0\samples\FriendPickerSample\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0"/>
+    <item
+        dex="C:\Users\Henry\AndroidstudioProjects\facebook-android-sdk-3.19.0\samples\PlacePickerSample\build\intermediates\pre-dexed\debug\bolts-android-1.1.2-7eb93fc35141352a07c9d5e19c63f23468e00a2b.jar"
+        jar="C:\Users\Henry\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-android\1.1.2\91c20388c9a45f62b5ed8fe0502bb76ff6251fc7\bolts-android-1.1.2.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="91c20388c9a45f62b5ed8fe0502bb76ff6251fc7"/>
+    <item
+        dex="C:\Users\Henry\AndroidstudioProjects\facebook-android-sdk-3.19.0\samples\PlacePickerSample\build\intermediates\pre-dexed\debug\support-annotations-20.0.0-a7379cc2c0edee1c78971e679c002daa2898b577.jar"
+        jar="D:\Program Files (x86)\android-studio\sdk\extras\android\m2repository\com\android\support\support-annotations\20.0.0\support-annotations-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa"/>
+    <item
+        dex="C:\Users\Henry\AndroidstudioProjects\facebook-android-sdk-3.19.0\samples\PlacePickerSample\build\intermediates\pre-dexed\debug\classes-98c0dffdf62a4f475defd0b001c8f98d6df63bb7.jar"
+        jar="C:\Users\Henry\AndroidstudioProjects\facebook-android-sdk-3.19.0\samples\PlacePickerSample\build\intermediates\exploded-aar\facebook-android-sdk-3.19.0\facebook\unspecified\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="9705fd7cf25d4af5e2a35e956cf67e41ade5dc22"/>
+    <item
+        dex="C:\Users\Henry\AndroidstudioProjects\facebook-android-sdk-3.19.0\samples\PlacePickerSample\build\intermediates\pre-dexed\debug\internal_impl-20.0.0-515c42decb7bf1e427949c506d56e57760e627ad.jar"
+        jar="C:\Users\Henry\AndroidstudioProjects\facebook-android-sdk-3.19.0\samples\PlacePickerSample\build\intermediates\exploded-aar\com.android.support\support-v4\20.0.0\libs\internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d"/>
+    <item
+        dex="C:\Users\Henry\AndroidstudioProjects\facebook-android-sdk-3.19.0\samples\FriendPickerSample\build\intermediates\pre-dexed\debug\classes-d56a9fbf64d8dfb5e34c3bb00e035933706fbaee.jar"
+        jar="C:\Users\Henry\AndroidstudioProjects\facebook-android-sdk-3.19.0\samples\FriendPickerSample\build\intermediates\exploded-aar\facebook-android-sdk-3.19.0\facebook\unspecified\classes.jar"
+        jumboMode="false"
+        revision="20.0.0"
+        sha1="9705fd7cf25d4af5e2a35e956cf67e41ade5dc22"/>
+
+</pre-dex-items>
